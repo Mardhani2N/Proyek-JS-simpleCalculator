@@ -43,14 +43,10 @@ button {
     background-color: orange;
 }
 
-.button:hover {
+button:hover {
     background-color: darkgray;
 }
 
 .operator:hover, .equal-sign:hover {
     background-color: darkorange;
-}
-
-.number:hover, .decimal:hover, .all-clear:hover, .percentage:hover {
-    background-color: black;
 }
