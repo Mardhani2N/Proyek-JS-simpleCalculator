@@ -1,3 +1,3 @@
 # Proyek JavaScript
 
-built simple calculator
+make a simple calculator
