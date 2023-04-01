@@ -1,1 +1,3 @@
-# Proyek-JS-simpleCalculator
+# Proyek JavaScript
+
+built simple calculator
